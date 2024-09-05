@@ -1,0 +1,6 @@
+@HSRWebAPI_HostAddress = http://localhost:5240
+
+GET {{HSRWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
